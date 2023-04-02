@@ -1,0 +1,9 @@
+Package: com.icraze.photonfix
+Name: PhotonFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix Photon tweak on iOS 15 (and 16?)
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
